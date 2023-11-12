@@ -1,0 +1,3 @@
+/home/deepak/temp2/Systray/Wifi/build/CMakeFiles/wifi-tray.dir
+/home/deepak/temp2/Systray/Wifi/build/CMakeFiles/edit_cache.dir
+/home/deepak/temp2/Systray/Wifi/build/CMakeFiles/rebuild_cache.dir

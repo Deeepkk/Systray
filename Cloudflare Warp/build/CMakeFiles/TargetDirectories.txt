@@ -1,0 +1,3 @@
+/home/deepak/temp2/Systray/Cloudflare Warp/build/CMakeFiles/warp-tray.dir
+/home/deepak/temp2/Systray/Cloudflare Warp/build/CMakeFiles/edit_cache.dir
+/home/deepak/temp2/Systray/Cloudflare Warp/build/CMakeFiles/rebuild_cache.dir

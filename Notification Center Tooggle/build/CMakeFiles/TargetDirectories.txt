@@ -1,0 +1,4 @@
+/home/deepak/temp2/Systray/Notification Center Tooggle/build/CMakeFiles/nc-toggle-tray.dir
+/home/deepak/temp2/Systray/Notification Center Tooggle/build/CMakeFiles/edit_cache.dir
+/home/deepak/temp2/Systray/Notification Center Tooggle/build/CMakeFiles/rebuild_cache.dir
+/home/deepak/temp2/Systray/Notification Center Tooggle/build/CMakeFiles/nc-toggle-tray_autogen.dir

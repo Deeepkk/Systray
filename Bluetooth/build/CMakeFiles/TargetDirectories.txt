@@ -1,0 +1,3 @@
+/home/deepak/temp2/Systray/Bluetooth/build/CMakeFiles/bluetooth-tray.dir
+/home/deepak/temp2/Systray/Bluetooth/build/CMakeFiles/edit_cache.dir
+/home/deepak/temp2/Systray/Bluetooth/build/CMakeFiles/rebuild_cache.dir

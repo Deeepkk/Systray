@@ -1,0 +1,3 @@
+/home/deepak/temp2/Systray/Battery/build/CMakeFiles/battery-tray.dir
+/home/deepak/temp2/Systray/Battery/build/CMakeFiles/edit_cache.dir
+/home/deepak/temp2/Systray/Battery/build/CMakeFiles/rebuild_cache.dir

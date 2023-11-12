@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+9bccb1a7442b3ec6ca6d90dfedd6d9a2 CMakeFiles/nc-toggle-tray_autogen
