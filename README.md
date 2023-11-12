@@ -12,4 +12,3 @@ All systray use icons from gtk icon theme on system
 - Libappindcator
 
 Note: All systray are built for personal use , you may have to make some changes for yourself. Also notification center toogle is written with qt instead of gtk.
-As if anyonne gonna read it :)
