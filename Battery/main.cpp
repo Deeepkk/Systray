@@ -78,7 +78,7 @@ void updateIcon() {
     } else if (numericStatus >= 51 && numericStatus <= 70) {
         icon = g_themed_icon_new("battery-070-plugged");
     } else if (numericStatus >= 71 && numericStatus <= 90) {
-        icon = g_themed_icon_new("battery-90-plugged");
+        icon = g_themed_icon_new("battery-090-plugged");
     } else if (numericStatus >= 91 && numericStatus <= 100) {
         icon = g_themed_icon_new("battery-100-plugged");
     } else {
@@ -100,7 +100,7 @@ void updateIcon() {
     } else if (numericStatus >= 51 && numericStatus <= 70) {
         icon = g_themed_icon_new("battery-070");
     } else if (numericStatus >= 71 && numericStatus <= 90) {
-        icon = g_themed_icon_new("battery-90");
+        icon = g_themed_icon_new("battery-090");
     } else if (numericStatus >= 91 && numericStatus <= 100) {
         icon = g_themed_icon_new("battery-100");
     }  else {
